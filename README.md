@@ -59,3 +59,5 @@ The following env variables are supported:
  - `BAN_STICKER`: Which sticker to use when banning people.
  - `ALLOW_EXCL`: Whether to allow using exclamation marks ! for commands as well as /.
 
+Author - SATOSHI
+Telegram- @satoshi4545
